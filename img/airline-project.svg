@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" fill="none">
+  <rect width="900" height="400" fill="#E8F0EE"/>
+  <path d="M0 80H900M0 160H900M0 240H900M0 320H900M90 0V400M180 0V400M270 0V400M360 0V400M450 0V400M540 0V400M630 0V400M720 0V400M810 0V400" stroke="#D3E1DD"/>
+  <path d="M94 284C184 251 197 118 322 145C418 166 432 248 534 221C622 197 634 99 793 104" stroke="#3764C8" stroke-width="5" stroke-linecap="round" stroke-dasharray="2 13"/>
+  <circle cx="94" cy="284" r="13" fill="#fff" stroke="#3764C8" stroke-width="5"/>
+  <circle cx="322" cy="145" r="13" fill="#fff" stroke="#3764C8" stroke-width="5"/>
+  <circle cx="534" cy="221" r="13" fill="#fff" stroke="#3764C8" stroke-width="5"/>
+  <circle cx="793" cy="104" r="13" fill="#fff" stroke="#3764C8" stroke-width="5"/>
+  <path d="M503 85h303a18 18 0 0 1 18 18v198a18 18 0 0 1-18 18H503a18 18 0 0 1-18-18V103a18 18 0 0 1 18-18Z" fill="#fff" stroke="#C9D9D5" stroke-width="2"/>
+  <text x="517" y="126" fill="#192D33" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">MODEL COMPARISON</text>
+  <rect x="518" y="151" width="270" height="52" rx="8" fill="#E1EFEB"/>
+  <circle cx="545" cy="177" r="11" fill="#22584F"/>
+  <path d="M540 177h10M545 172v10" stroke="#fff" stroke-width="2"/>
+  <text x="569" y="183" fill="#192D33" font-family="Segoe UI,Arial,sans-serif" font-size="18">XGBoost</text>
+  <rect x="518" y="216" width="270" height="52" rx="8" fill="#EEF2FA"/>
+  <circle cx="545" cy="242" r="11" fill="#3764C8"/>
+  <path d="M539 246l6-9 6 9" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="569" y="248" fill="#192D33" font-family="Segoe UI,Arial,sans-serif" font-size="18">Random Forest</text>
+  <text x="517" y="296" fill="#64777B" font-family="Segoe UI,Arial,sans-serif" font-size="14">50,000+ flight records</text>
+  <path d="m101 275 14 9-17 3 3-12Z" fill="#22584F"/>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" fill="none">
+  <rect width="900" height="400" fill="#F2EFE5"/>
+  <path d="M0 80H900M0 160H900M0 240H900M0 320H900" stroke="#E3DED0"/>
+  <rect x="76" y="62" width="315" height="276" rx="10" fill="#fff" stroke="#D9D5C9" stroke-width="2"/>
+  <text x="102" y="101" fill="#192D33" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">JOB POSTINGS</text>
+  <g fill="#F1F5F3" stroke="#D3DFDC">
+    <rect x="100" y="120" width="267" height="55" rx="7"/>
+    <rect x="100" y="188" width="267" height="55" rx="7"/>
+    <rect x="100" y="256" width="267" height="55" rx="7"/>
+  </g>
+  <g fill="#3764C8">
+    <circle cx="120" cy="143" r="7"/><circle cx="120" cy="211" r="7"/><circle cx="120" cy="279" r="7"/>
+  </g>
+  <g stroke="#A8B9B5" stroke-width="6" stroke-linecap="round">
+    <path d="M140 140h152M140 155h104M140 208h166M140 223h121M140 276h142M140 291h96"/>
+  </g>
+  <path d="M421 200h93" stroke="#3764C8" stroke-width="4" stroke-linecap="round"/>
+  <path d="m501 188 14 12-14 12" stroke="#3764C8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="532" y="62" width="292" height="276" rx="10" fill="#fff" stroke="#D9D5C9" stroke-width="2"/>
+  <text x="558" y="101" fill="#192D33" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">CLEANED &amp; ANALYSED</text>
+  <rect x="558" y="123" width="101" height="32" rx="16" fill="#E1EFEB"/>
+  <text x="578" y="144" fill="#22584F" font-family="Segoe UI,Arial,sans-serif" font-size="14">Python</text>
+  <rect x="670" y="123" width="83" height="32" rx="16" fill="#EEF2FA"/>
+  <text x="692" y="144" fill="#24499D" font-family="Segoe UI,Arial,sans-serif" font-size="14">Skills</text>
+  <path d="M562 294h231" stroke="#D3DFDC" stroke-width="2"/>
+  <rect x="574" y="249" width="31" height="45" rx="4" fill="#AFC9C0"/>
+  <rect x="618" y="220" width="31" height="74" rx="4" fill="#7FA99C"/>
+  <rect x="662" y="235" width="31" height="59" rx="4" fill="#3764C8"/>
+  <rect x="706" y="189" width="31" height="105" rx="4" fill="#22584F"/>
+  <rect x="750" y="211" width="31" height="83" rx="4" fill="#8BA8E2"/>
+  <text x="102" y="326" fill="#64777B" font-family="Segoe UI,Arial,sans-serif" font-size="13">Selenium · BeautifulSoup · 900+ listings</text>
+</svg>
